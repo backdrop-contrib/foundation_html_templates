@@ -1,0 +1,17 @@
+name = Foundation HTML Templates Portfolio
+version = BACKDROP_VERSION
+type = layout
+backdrop = 1.x
+
+; Include file for special preprocessing of this layout's variables.
+; file = juiced_up_split_screen.php
+
+; Specify regions for this layout.
+regions[header] = Header
+regions[top] = Top
+regions[content] = Content
+regions[footer] = Footer bottom
+
+; The default region automatically receives the "Main Content" block if needed.
+; Modify this line if you would like to change the default in this layout.
+default region = content

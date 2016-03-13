@@ -1,0 +1,21 @@
+name = Foundation HTML Templates Product
+version = BACKDROP_VERSION
+type = layout
+backdrop = 1.x
+
+; Include file for special preprocessing of this layout's variables.
+; file = juiced_up_startup66.php
+
+; Specify regions for this layout.
+regions[header] = Header
+regions[content] = Content
+regions[sidebar_first] = Sidebar first
+regions[big_statement] = First big statement
+regions[sidebar_second] = Sidebar third
+regions[big_statement_second] = Second big statement
+regions[footer_action] = Footer action
+regions[footer] = Footer
+
+; The default region automatically receives the "Main Content" block if needed.
+; Modify this line if you would like to change the default in this layout.
+default region = content
