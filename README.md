@@ -3,6 +3,8 @@ Foundation HTML Templates Layouts
 
 A set of 8 common use-case-specific layouts for Backdrop CMS.
 
+This layout set is deprecated until core standards are merged in for Backdrop 1.4.0 - May 15th, 2016
+
 These layouts are based on the Zurb Foundation 6 starter templates found at <http://foundation.zurb.com/templates.html>
 
 Backdrop CMS allows you to easily specify layouts (design skeletons/wireframes) for a URL on your site (or set of paths to pages).
